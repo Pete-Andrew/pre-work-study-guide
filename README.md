@@ -3,6 +3,7 @@
 ## Description
 
 The pre work study guide was produced to practice HTML, CSS, Git and JavaScript.
+https://pete-andrew.github.io/prework-study-guide/ 
 
 ## Installation
 
